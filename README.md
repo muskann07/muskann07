@@ -72,8 +72,8 @@ Git • VS Code • Postman • Vercel • Firebase
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muskann07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskann07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ Git • VS Code • Postman • Vercel • Firebase
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=muskann07&theme=tokyonight" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Git • VS Code • Postman • Vercel • Firebase
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/muskann07/muskann07/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -97,11 +97,11 @@ Git • VS Code • Postman • Vercel • Firebase
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/muskan-jsr">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:muskansr.2003@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
