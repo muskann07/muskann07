@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">Hi 👋, I'm Muskan</h1>
+<h1 align="center">Hi, I'm Muskan</h1>
 
 <h3 align="center">
 Final Year B.Tech CSE Student • Aspiring Software Engineer 🚀
@@ -18,7 +18,7 @@ Final Year B.Tech CSE Student • Aspiring Software Engineer 🚀
 
 ## 🌸 About Me
 
-🎓 Final-year B.Tech in Computer Science & Engineering  
+🎓 Final-year B.Tech student in Computer Science & Engineering  
 
 💻 Strong foundation in Computer Science fundamentals  
 
@@ -28,7 +28,7 @@ Final Year B.Tech CSE Student • Aspiring Software Engineer 🚀
 
 🌐 Experienced in Full-Stack Development and AI/ML projects  
 
-⚡ Fun fact: I treat debugging like a puzzle game 🧩  
+⚡ Fun fact: I talk to my code… it sometimes listens 😄  
 
 ---
 
