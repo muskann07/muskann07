@@ -98,7 +98,7 @@ Git • VS Code • Postman • Vercel • Firebase
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muskan-jsr">
+<a href="https://www.linkedin.com/in/muskan-jsr/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
